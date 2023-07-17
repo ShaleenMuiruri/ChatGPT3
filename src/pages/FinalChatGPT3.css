@@ -1,0 +1,405 @@
+.svg-icon {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.new-chat1 {
+  position: relative;
+  line-height: 16.5px;
+}
+.new-chat,
+.svg-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.svg-parent {
+  gap: 12px;
+}
+.new-chat {
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 14.5px 144px 14.5px 13px;
+}
+.frame-icon {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.svg {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.create-user-flow {
+  position: relative;
+  line-height: 20px;
+}
+.div2 {
+  position: relative;
+  background: linear-gradient(270deg, #202123, rgba(32, 33, 35, 0));
+  width: 32px;
+  height: 20px;
+}
+.div1 {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 57px;
+}
+.a {
+  border-radius: 6px;
+  width: 244px;
+  padding: 12px;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.a,
+.a1,
+.div3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div3 {
+  overflow: hidden;
+  gap: 57px;
+}
+.a1 {
+  border-radius: 6px;
+  padding: 12px;
+  gap: 12px;
+}
+.chattitles,
+.div {
+  align-items: flex-start;
+}
+.div {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 462px;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.chattitles {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  overflow: hidden;
+  flex-direction: row;
+  color: #ececf1;
+}
+.chattitles,
+.clear-conversations,
+.dark-mode {
+  display: flex;
+  justify-content: flex-start;
+}
+.clear-conversations {
+  border-radius: 6px;
+  flex-direction: row;
+  padding: 13.5px 80px 13.5px 12px;
+  align-items: center;
+  gap: 12px;
+}
+.dark-mode {
+  padding: 13.5px 136px 13.5px 12px;
+}
+.dark-mode,
+.openai-discord,
+.updates-faq {
+  border-radius: 6px;
+  flex-direction: row;
+  align-items: center;
+  gap: 12px;
+}
+.openai-discord {
+  display: flex;
+  padding: 13.5px 107px 13.5px 12px;
+  justify-content: flex-start;
+}
+.updates-faq {
+  padding: 13.5px 111px 13.5px 12px;
+}
+.clear-conversations-parent,
+.log-out,
+.updates-faq {
+  display: flex;
+  justify-content: flex-start;
+}
+.log-out {
+  border-radius: 6px;
+  flex-direction: row;
+  padding: 13.5px 156px 13.5px 12px;
+  align-items: center;
+  gap: 12px;
+}
+.clear-conversations-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+.chatgpt,
+.navigation {
+  align-self: stretch;
+  display: flex;
+}
+.navigation {
+  background-color: #202123;
+  flex-direction: column;
+  padding: 8px 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.chatgpt {
+  position: relative;
+  line-height: 40px;
+  font-weight: 600;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  flex-shrink: 0;
+}
+.frame-icon3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.h2,
+.svg3 {
+  display: flex;
+  justify-content: flex-start;
+}
+.svg3 {
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.h2 {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 1px;
+  align-items: center;
+  gap: 10px;
+}
+.explain-quantum-computing {
+  position: relative;
+  line-height: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.button,
+.button1,
+.examples,
+.explain-quantum-computing,
+.ul {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+}
+.button {
+  border-radius: 6px;
+  background-color: #f7f7f8;
+  flex-direction: column;
+  padding: 14px 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button1,
+.examples,
+.ul {
+  align-items: center;
+}
+.button1 {
+  border-radius: 6px;
+  background-color: #f7f7f8;
+  flex-direction: row;
+  padding: 14px 15px;
+  justify-content: center;
+}
+.examples,
+.ul {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.ul {
+  gap: 12px;
+  font-size: 14px;
+}
+.examples {
+  gap: 19px;
+}
+.svg-icon6 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.limitations {
+  position: relative;
+  line-height: 21.5px;
+}
+.button7 {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #f7f7f8;
+  display: flex;
+  flex-direction: row;
+  padding: 19px 15px;
+  align-items: center;
+  justify-content: center;
+}
+.capabilities2,
+.sections {
+  display: flex;
+  justify-content: flex-start;
+}
+.capabilities2 {
+  flex: 1;
+  height: 292.5px;
+  flex-direction: column;
+  align-items: center;
+  gap: 19px;
+}
+.sections {
+  align-self: stretch;
+  height: 295px;
+  flex-direction: row;
+  padding: 0 0.0078125px 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 14px;
+  font-size: 17px;
+}
+.content,
+.content-wrapper,
+.content1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.content1 {
+  background-color: #fff;
+  padding: 26px 0;
+  align-items: center;
+  justify-content: center;
+  gap: 77px;
+}
+.content,
+.content-wrapper {
+  flex: 1;
+  padding: 0 75px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content {
+  background-color: #fff;
+  padding: 136px 0 192px;
+}
+.svg-child {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 13px;
+}
+.field,
+.prompt,
+.svg6 {
+  display: flex;
+  flex-direction: row;
+}
+.svg6 {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: flex-start;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.field,
+.prompt {
+  justify-content: center;
+}
+.field {
+  flex: 1;
+  border-radius: 6px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  height: 49px;
+  padding: 18px 16px;
+  align-items: flex-start;
+}
+.prompt {
+  align-self: stretch;
+  padding: 8px 75px 0;
+  align-items: center;
+}
+.chatgpt-jan-9 {
+  text-decoration: underline;
+}
+.chatgpt-jan-9-container1 {
+  line-break: anywhere;
+}
+.chatgpt-jan-9-container {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+}
+.chatgpt-jan-9-version-free-re-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  padding: 0 30px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.chatmain,
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footer {
+  align-self: stretch;
+  background-color: #fff;
+  padding: 24px 0;
+  align-items: center;
+  gap: 13px;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.chatmain {
+  flex: 1;
+  height: 927px;
+  align-items: flex-start;
+  text-align: center;
+  font-size: 36px;
+  color: #343541;
+}
+.finalchatgpt3 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: 14px;
+  color: #fff;
+  font-family: Roboto;
+}
